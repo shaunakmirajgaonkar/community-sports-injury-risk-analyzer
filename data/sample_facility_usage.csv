@@ -1,0 +1,13 @@
+facility_id,sport_type,daily_users,peak_users,weekly_sessions,utilization_index,session_duration_min,capacity_pressure_index
+FAC-001,Football,210,78,24,0.79,92,0.74
+FAC-002,Basketball,180,64,20,0.68,81,0.61
+FAC-003,Cricket,250,96,28,0.88,104,0.83
+FAC-004,Tennis,120,44,17,0.57,76,0.49
+FAC-005,Basketball,195,71,22,0.75,84,0.68
+FAC-006,Football,230,82,25,0.83,96,0.77
+FAC-007,Athletics,165,58,19,0.64,73,0.56
+FAC-008,Tennis,105,38,15,0.51,69,0.42
+FAC-009,Cricket,280,108,31,0.94,109,0.91
+FAC-010,Athletics,150,53,18,0.62,72,0.53
+FAC-011,Basketball,205,76,23,0.78,86,0.71
+FAC-012,Football,240,88,27,0.86,98,0.81

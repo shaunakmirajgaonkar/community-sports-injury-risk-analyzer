@@ -1,0 +1,13 @@
+facility_id,surface_type,surface_condition_score,worn_area_pct,puddle_pressure_index,last_inspection_days,maintenance_overdue_days,surface_cleanliness_index
+FAC-001,Rubber Track,0.48,28,0.44,18,12,0.82
+FAC-002,Artificial Turf,0.74,12,0.31,7,0,0.91
+FAC-003,Concrete Court,0.39,34,0.62,29,22,0.76
+FAC-004,Natural Grass,0.66,18,0.28,11,4,0.88
+FAC-005,Hard Court,0.52,25,0.49,23,16,0.80
+FAC-006,Synthetic Pitch,0.81,9,0.22,5,0,0.94
+FAC-007,Rubber Track,0.45,30,0.51,31,27,0.73
+FAC-008,Artificial Turf,0.71,14,0.27,9,0,0.92
+FAC-009,Concrete Court,0.34,39,0.67,35,31,0.69
+FAC-010,Natural Grass,0.63,20,0.35,14,6,0.86
+FAC-011,Hard Court,0.56,21,0.42,19,10,0.79
+FAC-012,Synthetic Pitch,0.77,11,0.25,8,0,0.93
